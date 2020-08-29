@@ -40,7 +40,7 @@ class _CartCardsState extends State<CartCards> {
                           style: TextStyle(color: Colors.black54),
                         ),
                         Text(
-                          '6',
+                          '2',
                           style: TextStyle(fontWeight: FontWeight.bold),
                         )
                       ],
@@ -56,7 +56,7 @@ class _CartCardsState extends State<CartCards> {
                           style: TextStyle(color: Colors.black54),
                         ),
                         Text(
-                          '\$66,666',
+                          '\$600',
                           style: TextStyle(fontWeight: FontWeight.bold),
                         )
                       ],
@@ -82,7 +82,7 @@ class _CartCardsState extends State<CartCards> {
                               color: Colors.black, fontWeight: FontWeight.bold),
                         ),
                         Text(
-                          '\$66,666',
+                          '\$600',
                           style: TextStyle(
                               fontWeight: FontWeight.bold,
                               color: Colors.blueAccent),
